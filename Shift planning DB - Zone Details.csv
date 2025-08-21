@@ -1,0 +1,8 @@
+Zone_No,Zone_Name,Zone_Size,No_of_Areas,Supervisor_Name,No_of_Inspectors,Area_Coverage_Per_Inspector
+Z001,Riverside,Small,7,Daniel Carter,6,1.17
+Z002,Old Town,Medium,15,Daniel Carter,12,1.25
+Z003,Midtown,Small,8,Sophie Patel,6,1.33
+Z004,Greenfields,Medium,13,Sophie Patel,10,1.3
+Z005,South Industrial,Big,19,Rachel Kim,15,1.27
+Z006,North Industrial,Big,21,Michael O’Neill,17,1.24
+Z007,Eastbank,Medium,17,Thomas Hughes,14,1.21
